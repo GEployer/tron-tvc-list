@@ -15,3 +15,22 @@
         }
   ]
 }
+
+{
+      "address": "TMvgedTZhHmveEKSkbKkyS6Wuspakhg1mi",
+      "symbol": "DOGEI",
+      "name": "Dogei",
+      "decimals": 18,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/TMvgedTZhHmveEKSkbKkyS6Wuspakhg1mi.jpeg",
+      "homepage": "https://www.chinesedogetron.com/",
+      "MarketCapLink": "",
+      "existingMarkets": [
+          {
+              "source": "SunSwap",
+              "pairs": [
+                  "DOGEI/WTRX",
+              ]
+          }
+          }
+    ]
+}
